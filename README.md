@@ -3,13 +3,16 @@ Homework 11 Materials
 
 This repository contains four files, two of which are Jupyter Notebooks while the other two are PDFs of the Notebooks showing the output.
 
-Program:	
-Coding Companion for Intuitive Deep Learning Part 1 Annotated.ipynb
-Coding Companion to Intuitive Deep Learning Part 2 (Annotated).ipynb
+#### Program:	
+Coding Companion for Intuitive Deep Learning Part 1 Annotated.ipynb	
 
-Output:
-Coding Companion for Intuitive Deep Learning Part 1 Annotated.pdf
-Coding Companion to Intuitive Deep Learning Part 2 (Annotated).pdf
+Coding Companion to Intuitive Deep Learning Part 2 (Annotated).ipynb	
+
+#### Output:
+Coding Companion for Intuitive Deep Learning Part 1 Annotated.pdf	
+
+Coding Companion to Intuitive Deep Learning Part 2 (Annotated).pdf	
+
 
 The Jupyter Notebooks are written by Joseph Lee Wei En, with some of my annotations in italics or some additional Python comments.
 
