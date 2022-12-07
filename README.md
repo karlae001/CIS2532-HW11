@@ -4,13 +4,11 @@ Homework 11 Materials
 This repository contains four files, two of which are Jupyter Notebooks while the other two are PDFs of the Notebooks showing the output.
 
 #### Program:	
-Coding Companion for Intuitive Deep Learning Part 1 Annotated.ipynb	
-
-Coding Companion to Intuitive Deep Learning Part 2 (Annotated).ipynb	
+Coding Companion for Intuitive Deep Learning Part 1 Annotated.ipynb  
+Coding Companion to Intuitive Deep Learning Part 2 (Annotated).ipynb
 
 #### Output:
-Coding Companion for Intuitive Deep Learning Part 1 Annotated.pdf	
-
+Coding Companion for Intuitive Deep Learning Part 1 Annotated.pdf  
 Coding Companion to Intuitive Deep Learning Part 2 (Annotated).pdf	
 
 
